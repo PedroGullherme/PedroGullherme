@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PedroGullherme
 - 👀 I’m interested in being a Web Developer
-- 🌱 I’m currently learning HTML, CSS and JS
+- 🌱 I’m currently learning HTML, CSS, JS, REACT JS and NODE.JS
 - 📫 How to reach me ppgrc@hotmail.com
 
 <!---
